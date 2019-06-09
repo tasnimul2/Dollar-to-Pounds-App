@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dollar to Pounds</string>
+    <string name="convernt_to">Convernt $ to £</string>
+    <string name="enter_numeric_value">Enter Numeric Value</string>
+    <string name="todo">TODO</string>
+    <string name="convert_toDollar">Convert £ to $</string>
+    <string name="convert_toPound">CONVERT $ TO £</string>
+</resources>
+
