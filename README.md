@@ -1,4 +1,4 @@
-# DollartoPoundsApplication
+# :dollar: Dollar to Pounds Application :pound:
 App made to convert dollars to pounds 
 
 
